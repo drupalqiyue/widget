@@ -1,4 +1,0 @@
-name = Widget
-description = A Tool To Create Cross Website Widget
-core = 7.x
-version = "7.x-1.1"
